@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Seznam>
+    <Kniha ISBN = "123456789" Vydano = "1933" >
+        <Nazev>O pejskovi a kočičce</Nazev>
+        <Autor Jmeno = "Karel" Prijmeni = "Čapek" />
+    </Kniha>
+    <Kniha ISBN = "978-80-7243-837-2" Vydano = "2016" >
+        <Nazev>Když se ucho utrhne</Nazev>
+        <Autor Jmeno = "Milan" Prijmeni = "Drobný" />
+    </Kniha>
+</Seznam>

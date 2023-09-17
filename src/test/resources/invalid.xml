@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Seznam>
+    <Book ISBN = "123456789" Vydano = "1933" >
+        <Nazev>O pejskovi a kočičce</Nazev>
+        <Autor Jmeno = "Karel" Prijmeni = "Čapek" />
+    </Book>
+</Seznam>
